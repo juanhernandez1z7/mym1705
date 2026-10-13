@@ -34,6 +34,14 @@
 		{
 			"name": "10 Ejemplo 9",
 			"path": "10 Ejemplo 9"
+		},
+		{
+			"name": "esp32_ep",
+			"path": "../../../Documents/PlatformIO/Projects/esp32_ep"
+		},
+		{
+			"name": "10 Ejemplo 9_1",
+			"path": "10 Ejemplo 9_1"
 		}
 	],
 	"settings": {}
